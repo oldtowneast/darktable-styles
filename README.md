@@ -1,2 +1,3 @@
 # darktable-styles
-This space intentionally left blank.
+
+These are styles that I have found and made.
