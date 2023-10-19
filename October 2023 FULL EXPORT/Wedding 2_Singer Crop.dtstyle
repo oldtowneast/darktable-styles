@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0"><info><name>Wedding 2|Singer Crop</name><description></description></info><style><plugin><num>11</num><module>1</module><operation>crop</operation><op_params>9017ea3ee823093ea5db5b3feb5f663f0b000000f2ffffff</op_params><enabled>1</enabled><blendop_params>gz12eJxjYIAACQYYOOHEgAZY0QVwggZ7CB6pfOqC/0AAogFpBh0E</blendop_params><blendop_version>13</blendop_version><multi_priority>0</multi_priority><multi_name></multi_name><multi_name_hand_edited>0</multi_name_hand_edited></plugin></style></darktable_style>
