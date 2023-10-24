@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0"><info><name>0723|RAW Denoise</name><description>ON THIS DAY</description></info><style><plugin><num>14</num><module>2</module><operation>rawdenoise</operation><op_params>gz06eJzrPVRqywAGDXZAwp6BwQGIG+wpFKMqBgAd9w/a</op_params><enabled>1</enabled><blendop_params>gz13eJxjYGBgYARiCQYYOOHEgAZY0QVwggZ7CB6pfNoAAFDAGQk=</blendop_params><blendop_version>11</blendop_version><multi_priority>0</multi_priority><multi_name></multi_name></plugin></style></darktable_style>
