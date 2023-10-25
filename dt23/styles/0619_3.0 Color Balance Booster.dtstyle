@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0"><info><name>0619|3.0 Color Balance Booster</name><description></description></info><style><plugin><num>16</num><module>5</module><operation>colorbalancergb</operation><op_params>gz03eJxjYCAVNNij0mC2HYg8c+YMiN4PYs+aOdMOWQ4GJr61sZsxU9IeRIP4jEAMABkuDeA=</op_params><enabled>1</enabled><blendop_params>gz10eJxjYGBgYAFiCQYYOOHEgAZY0QVwggZ7CB6pfOygYtaVAyCMi08IAAB/xiOk</blendop_params><blendop_version>11</blendop_version><multi_priority>0</multi_priority><multi_name></multi_name></plugin></style></darktable_style>
