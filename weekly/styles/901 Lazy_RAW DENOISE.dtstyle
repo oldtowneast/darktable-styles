@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0"><info><name>901 Lazy|RAW DENOISE</name><description></description></info><style><plugin><num>37</num><module>2</module><operation>rawdenoise</operation><op_params>gz06eJzjuq5swwAGDXZAwp6BwQGIG+wpFKMqBgCi1g8Z</op_params><enabled>1</enabled><blendop_params>gz11eJxjYGBgYARiCQYYOOHEgAZY0QVwggZ7CB6pfOqC/0AAogFqph0F</blendop_params><blendop_version>13</blendop_version><multi_priority>0</multi_priority><multi_name></multi_name><multi_name_hand_edited>0</multi_name_hand_edited></plugin></style></darktable_style>
